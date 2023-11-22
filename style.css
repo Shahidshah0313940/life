@@ -1,0 +1,76 @@
+@media print {@page { size: landscape;}
+    
+}
+bodey{
+    margin: 40pxpx;
+}
+.section1{
+    border: 1px solid black;
+    display: flex;
+}
+.red{
+    width: 33.3%;
+    border: 2px solid black;
+
+}
+.blue{
+    width: 33.3%;
+    border: 2px solid black;
+}
+.green{
+    width: 33.3%;
+    border: 2px solid black;
+}
+.football{
+    border:  1px solid black;
+    display: flex;
+}
+.div1{
+    width: 33%;
+    border: 2px solid black;
+}
+.div2{
+    width: 33%;
+    border: 2px solid black;
+}
+.div3{
+    width: 33%;
+    border: 2px solid black;
+}
+.cricket{
+    width: 11%;
+    border: 1px solid black;
+    display: flex;
+}
+.hockey{
+    display: flex;
+    border: 1px solid black;
+}
+.ball{
+    display: flex;
+    border: 2px solid black;
+}
+.mask{
+    border: 1px solid black;
+    width: 33%;
+}
+.pencil{
+    border: 1px solid black;
+    width: 33%;
+}
+.shop{
+    border: 1px solid black;
+    width: 33%;
+}
+.laptop{
+    border: 1px solid black;
+}
+.fresh{
+    display: flex;
+}
+.list{
+    width: 20%;
+}
+.late{
+    width: 20%;
+}
